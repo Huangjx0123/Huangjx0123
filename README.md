@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Jiaxiang
 
-<!--
-**Huangjx0123/Huangjx0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent software maker building **Driftwork** — a small studio crafting focused, useful tools.
 
-Here are some ideas to get you started:
+By training I'm a quantitative researcher: I spend my days working with data pipelines, machine learning models, and research automation. By night I turn that same toolkit into small software products that solve real, specific problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+**Driftwork** is my indie software studio. The approach: find one painful, well-defined problem, build the smallest tool that solves it properly, ship it, and let real users decide what happens next.
+
+- Currently in the discovery and prototyping phase — first product launching soon
+- Building in the open: code, decisions, and honest results will live here
+
+## How I work
+
+- Ship small, ship often, measure everything
+- TypeScript / Next.js / Python
+- AI-assisted development as a core part of the workflow, not a gimmick
+
+## Find me
+
+- Studio: [github.com/Huangjx0123/driftwork](https://github.com/Huangjx0123/driftwork)
